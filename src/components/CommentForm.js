@@ -1,4 +1,4 @@
-import React, { useState, useContext } from 'react';
+import { useState, useContext } from 'react';
 import { Notyf } from 'notyf';
 import 'notyf/notyf.min.css';
 import UserContext from '../context/UserContext';
